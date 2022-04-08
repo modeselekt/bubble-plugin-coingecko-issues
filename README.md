@@ -2,5 +2,5 @@ Support for the Coingecko API Bubble.io plugin https://github.com/modeselekt/bub
 
 Submit an issue: https://github.com/modeselekt/bubble-plugin-coingecko-issues/issues
 
-Checkout version release information: 
+Changelog: https://github.com/modeselekt/bubble-plugin-coingecko-issues/wiki/Changelog
 
